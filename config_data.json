@@ -1,0 +1,101 @@
+{
+  "offset_map": {
+    "v_testrun1": 0,
+    "v_testrun2": 7,
+    "v_testrun3": 14
+  },
+  "pro_stations": [
+    "VLK_PRO-4_ISE-NEO",
+    "VLK_PRO-4_C703",
+    "VLK_PRO-4_C503",
+    "VLK_PRO-4_E801-M1",
+    "VLK_PRO-4_E801-M2",
+    "VLK_PRO-3_ISE-NEO",
+    "VLK_PRO-3_C703",
+    "VLK_PRO-3_C503",
+    "VLK_PRO-3_E801-M1",
+    "VLK_PRO-3_E801-M2"
+  ],
+  "test_mnemonics": {
+    "c_module": [
+      "K_ACE_X_LHB", "K_AF_X_LHB",
+      "K_ALAT_X_LHB", "K_Albumine_X_LHB", "K_Alfa-1-antitryp_X_LHB",
+      "K_Amfetamine_X_URP", "K_Ammoniak_X_EDTA", "K_ASAT_X_LHB",
+      "K_Benzodiazep_X_URP", "K_Bilirubine-dir_X_LHB",
+      "K_Bilirubine_X_LHB", "K_CK_X_LHB", "K_CO2-Tot-VC_X_LHB",
+      "K_CRP_X_LHB", "K_Calcium_X_LHB", "K_Calcium_X_URP",
+      "K_Chloride_X_LHB", "K_Chloride_X_URP", "K_Cholesterol_X_LHB",
+      "K_Cocaine_X_URP", "K_Comp-C3_X_LHB", "K_Comp-C4_X_LHB",
+      "K_Digoxine_X_LHB", "K_ETG_X_URP", "K_Ethanol_X_LHB",
+      "K_Fosfaat_X_LHB", "K_Fosfaat_X_URP", "K_Galzuur-zout-n_X_LHB",
+      "K_Gamma-GT_X_LHB", "K_Gentamicine-top_X_LHB",
+      "K_Glucose_X_CEF", "K_HDL-chol-dir_X_LHB",
+      "K_Haptoglobine_X_LHB", "K_HbA1c_X_EDTA", "K_IJzer_X_LHB",
+      "K_IgA_X_LHB", "K_IgG_X_LHB", "K_IgM_X_LHB", "K_Kalium_X_LHB",
+      "K_Kalium_X_URP", "K_Kreatinine_X_LHB", "K_Kreatinine_X_URP",
+      "K_LD_X_LHB", "K_LDL-Chol-gemeten_X_LHB", "K_Lactaat_X_NAF",
+      "K_Lipase_X_LHB", "K_Lithium_X_SER", "K_Lipoproteine-a_X_LHB",
+      "K_Magnesium_X_LHB", "K_Magnesium_X_URP", "K_Methadon_X_URP",
+      "K_Micro-albumine_X_URP", "K_Natrium_X_LHB",
+      "K_Natrium_X_URP", "K_Opiaten_X_URP", "K_Paracetamol_X_LHB",
+      "K_THC_X_URP", "K_Totaal-eiwit_X_LHB", "K_Totaal-eiwit_X_URP",
+      "K_Transferrine_X_LHB", "K_Triglyceride_X_LHB",
+      "K_Ureum_X_LHB", "K_Ureum_X_URP", "K_Urinezuur_X_LHB",
+      "K_Urinezuur_X_URP", "K_Valproinezuur_X_LHB",
+      "K_Vancomycine-top_X_EDTA", "K_Zink_X_SER", "M_AST_ECLIA_ser"
+    ],
+    "e_module": [
+      "K_AFP_X_LHB", "K_BNP_X_LHB", "K_CA125_X_LHB", "K_CA153_X_LHB",
+      "K_CA199_X_LHB", "K_CEA_X_LHB", "K_CORT_X_LHB", "K_CTX_X_EDTA",
+      "K_FER_X_LHB", "K_FOL_X_LHB", "K_FSH_X_LHB", "K_FT3_X_LHB",
+      "K_FT4_X_LHB", "K_HCG_X_LHB", "K_LH_X_LHB", "K_OES_X_LHB",
+      "K_P1NP_X_EDTA", "K_Procal_X_LHB", "K_PRO_X_LHB",
+      "K_PROG_X_LHB", "K_PSA_X_LHB", "K_PTH_X_EDTA",
+      "K_SHBG_X_LHB", "K_TEST_X_LHB", "K_TROP_X_LHB",
+      "K_TSH_X_LHB", "K_VB12_X_LHB", "K_VD_X_LHB",
+      "M_HBc_ECLIA_ser", "M_HBAs_ECLIA_ser", "M_HBsAg_ECLIA_ser",
+      "M_HIVag_ECLIA_ser", "M_HIVscr_ECLIA_ser",
+      "M_HepC-IgG_ECLIA_ser", "M_aHIV_ECLIA_ser"
+    ]
+  },
+  "qc_material": {
+    "low": [
+      "VLK_ACE_N", "VLK_AMM_N", "VLK_Biorad_Imm2", "VLK_Biorad_Liq1",
+      "VLK_Biorad_Tox1", "VLK_Biorad_Ur_1", "VLK_ETG1",
+      "VLK_HbA1c_Pool", "VLK_Zn_Low",
+      "VLK_Cardiac_L1", "VLK_OPRO_1_Cob", "VLK_PC_AHBC_2",
+      "VLK_PC_AHBS_1", "VLK_PC_AHCV_1",
+      "VLK_PC_HBSAG_1", "VLK_PC_HIV_3", "VLK_PC_V_1", "VLK_Hemolyse", "VLK_Icterie",
+      "VLK_Lipemie"
+    ],
+    "high": [
+      "VLK_ACE_H", "VLK_AMM_P", "VLK_Biorad_Imm3",
+      "VLK_Biorad_Liq3", "VLK_Biorad_Tox2",
+      "VLK_Biorad_Ur_2", "VLK_ETG2", "VLK_HbA1c_PoolH",
+      "VLK_Zn_High", "VLK_Cardiac_L3",
+      "VLK_OPRO_3_Cob", "VLK_PC_AHBC_1", "VLK_PC_AHBS_2",
+      "VLK_PC_AHCV_2", "VLK_PC_HBSAG_2",
+      "VLK_PC_HIV_5", "VLK_PC_V_2"
+    ]
+  },
+  "qc_material_pro": {
+    "low": [
+      "VLK_ACE_N-V", "VLK_AMM_N", "VLK_Immuno2-V", "VLK_Chemie1-V",
+      "VLK_TOX1-V", "VLK_Urine1-V", "VLK_ETG1-V", "VLK_HbA1cP-V", "VLK_Zink-low-V",
+      "VLK_CardL1-V", "VLK_OPRO1-V", "VLK_PC_AHBC_2", "VLK_PC_AHBS_1",
+      "VLK_PC_AHCV_1", "VLK_PC_HBSAG_1", "VLK_PC_V_1", "VLK_Hemolyse",
+      "VLK_Ict-V", "VLK_Lip-V", "VLK_PC_HIV_3"
+    ],
+    "high": [
+      "VLK_ACE_H-V", "VLK_AMM_P", "VLK_Immuno3-V", "VLK_Chemie3-V", "VLK_TOX2-V",
+      "VLK_Urine2-V", "VLK_ETG2-V", "VLK_HbA1cPH-V", "VLK_Zink-high-V", "VLK_CardL3-V",
+      "VLK_OPRO3-V", "VLK_PC_AHBC_1", "VLK_PC_AHBS_2", "VLK_PC_AHCV_2",
+      "VLK_PC_HBSAG_2", "VLK_PC_V_2", "VLK_PC_HIV_5"
+    ]
+  },
+  "skip_hiv": [
+    "VLK_PC_HIV_1",
+    "VLK_PC_HIV_2",
+    "VLK_PC_HIV_4"
+  ]
+}
