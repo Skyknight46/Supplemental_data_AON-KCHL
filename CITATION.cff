@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Cobas validation data processor
+message: >-
+  This software was developed specifically for use within
+  Viecuri medisch centrum
+type: software
+authors:
+  - given-names: Tom
+    family-names: Ummenthun
+    email: aon.kchl.viecuri@gmail.com
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/Skyknight46/Supplemental_data_AON-KCHL
+    description: Python scripts sourcecode
+abstract: >-
+  Source code of scripts referenced in 'Implementatie advies
+  voor Voortschrijdend Patiënt Gemiddelde en Average of
+  Normals in nieuwe software'
+license: CC0-1.0
